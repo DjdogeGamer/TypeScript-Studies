@@ -1,2 +1,2 @@
 # TypeScript-Studies
-TypeScript Superset Studies 
+TypeScript - JavaScript Typed Superset, Syntax & Semantic Studies 
